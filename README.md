@@ -1,4 +1,10 @@
-# 📝 Pensamento Compilado - Blog Pessoal
+# 📝 Pensamento Compilado — Blog Pessoal (Front-end)
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+⚙️ **API (back-end):** [blog-pessoal-api](https://github.com/ThiagoTasseli/blog-pessoal-api)
 
 Este projeto é o **Blog Pessoal**, uma plataforma de postagens desenvolvida durante o Bootcamp Full Stack Java da Generation Brasil.  
 O sistema permite a criação, exibição e gerenciamento de postagens e temas, com autenticação de usuário e uma interface amigável construída com **React**, **TypeScript**, **TailwindCSS** e **React Router DOM**.
@@ -46,10 +52,10 @@ src/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/blog-pessoal.git
+git clone https://github.com/ThiagoTasseli/blog-pessoal-web.git
 
 # Acesse a pasta
-cd blog-pessoal
+cd blog-pessoal-web
 
 # Instale as dependências
 yarn
@@ -100,6 +106,6 @@ Este projeto está licenciado sob a Licença MIT.
 
 ## 👨‍💻 Desenvolvido por
 
-[**Thiago Tasseli**](https://github.com/tasselii)  
+[**Thiago Tasseli**](https://github.com/ThiagoTasseli)  
 
 Fique à vontade para abrir issues, enviar sugestões ou contribuir! 😄
